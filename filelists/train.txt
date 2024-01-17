@@ -1,0 +1,799 @@
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_104.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_90.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_111.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_247_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_114.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_8_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_6_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_128_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_3_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_264.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_179.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_48_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_23.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_64_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_246_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_3_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_38_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_22_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_199.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_102_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_24.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_24.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_107.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_67.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_8_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_248.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_140.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_166.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_47.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_2.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_16.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_3_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_64_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_6.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_169.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_91_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_265.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_115.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_246.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_36_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_28_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_33_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_275.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_137.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_32_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_246_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_181.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_78_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_132.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_76.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_3.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_8_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_194.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_13_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_155.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_20_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_54.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_32.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_148.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_75.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_80.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_77.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_30.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_36_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_28_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_31.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_96.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_211.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_53_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_15.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_89_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_247_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_26_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_90_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_0.wav
+./dataset/44k/milet/1_20240114_170826_(Vocals)_3_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_176.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_20_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_90_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_104_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_38_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_69_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_126.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_1.wav
+./dataset/44k/milet/1_20240114_170949_(Vocals)_3.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_48_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_18_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_68_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_21_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_14.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_9.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_38_06.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_18_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_142.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_192040_bilibili_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_36.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_234_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_20_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_4.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_16_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_113.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_94_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_10.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_76_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_80.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_70.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_90_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_4_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_94.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_18.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_230_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_40.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_3.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_234_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_7.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_121.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_49.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_18_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_20.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_26_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_37_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_253.wav
+./dataset/44k/milet/1_20240114_170949_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_86_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_130.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_38_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_37_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_20_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_32.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_124.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_115_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_81.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_283.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_60.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_220_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_83.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_13.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_138.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_5_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_45_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_43_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_162.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_103_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_20.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_11_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_34.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_239_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_125.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_48_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_21.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_21.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_17_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_78_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_22_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_103.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_12.wav
+./dataset/44k/milet/1_20240114_170826_(Vocals)_3.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_279.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_56.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_20.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_28.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_16_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_32_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_16.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_19.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_95.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_20_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_104_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_195.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_3_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_243.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_26_01.wav
+./dataset/44k/milet/1_20240114_170826_(Vocals)_2_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_190.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_235.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_63.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_91_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_49.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_7.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_72.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_21_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_44.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_247.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_37_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_64_06.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_70.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_65_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_29_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_23.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_64.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_63_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_139.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_36.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_125_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_161.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_10.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_18.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_0_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_259.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_99.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_17.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_14.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_192556_bilibili_(Vocals)_1_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_42_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_39_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_66_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_112.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_9.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_114.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_17_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_212.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_202.wav
+./dataset/44k/milet/1_20240114_170949_(Vocals)_4.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_51_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_57.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_73_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_281.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_278.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_74.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_126_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_18_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_264_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_22.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_133.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_20_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_20_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_43.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_18_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_112_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_65.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_33_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_109.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_39.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_150.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_56.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_77_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_110.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_14.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_32_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_92.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_271.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_42.wav
+./dataset/44k/milet/1_20240114_165739_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_27.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_217.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_125_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_0_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_160.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_11.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_21_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_247_06.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_174.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_1_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_6.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_38_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_88.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_96_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_96_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_83_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_282.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_260.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_64.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_38_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_262.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_74.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_19.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_192040_bilibili_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_4_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_12_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_21_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_41.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_204.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_2.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_27.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_11_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_30.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_258.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_8_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_2_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_47.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_184.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_216.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_93_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_207.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_27.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_24.wav
+./dataset/44k/milet/1_20240114_170826_(Vocals)_2.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_3_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_26.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_11_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_280_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_144.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_17.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_48_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_284.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_102.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_69_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_59.wav
+./dataset/44k/milet/1_20240114_165739_(Vocals)_0_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_7.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_38.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_20_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_266.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_215.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_245.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_7_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_28_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_65_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_36_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_210.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_15.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_168.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_21.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_43_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_5.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_14.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_48.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_104_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_186.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_220.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_86.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_281_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_100.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_13.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_28.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_0_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_100.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_229.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_5_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_26_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_7_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_92.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_91_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_78.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_15_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_151.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_22_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_33_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_57.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_64_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_89_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_73_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_7.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_257.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_251.wav
+./dataset/44k/milet/1_20240114_170949_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_11_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_247_07.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_29.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_242.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_200.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_246_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_11_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_20_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_97.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_15.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_231.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_122.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_124_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_86_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_38_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_4.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_221.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_5_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_112_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_113.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_54.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_112_06.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_157.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_50.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_152.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_89_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_247_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_34_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_61.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_149.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_11_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_205.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_23.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_62_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_0_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_77.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_3.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_247_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_92_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_180.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_12.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_12_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_78.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_244.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_51_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_4.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_63_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_34_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_14_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_58.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_17_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_33.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_0_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_105_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_276.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_4_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_9.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_83.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_33.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_117.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_18_06.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_271_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_21_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_88.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_34.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_97.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_89_06.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_14_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_18.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_87.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_25.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_68_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_68_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_34_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_6_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_8_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_116.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_87_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_80_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_21_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_33_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_93.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_85_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_112_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_85_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_68.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_102_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_87_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_24.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_98.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_45.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_49_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_224.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_256.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_192.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_101.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_9.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_22.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_29_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_15.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_91.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_131.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_63.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_183.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_34_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_7_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_82.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_42_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_225.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_119.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_20.wav
+./dataset/44k/milet/1_20240114_170826_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_198.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_21_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_106.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_26_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_115.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_1_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_170.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_175.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_103_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_30_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_7.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_37.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_234_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_9.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_134.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_38.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_1_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_192556_bilibili_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_8.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_35.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_45_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_28_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_40_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_123.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_226.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_58.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_39.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_16_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_38_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_0_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_277.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_167.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_54_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_95_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_71.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_80_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_102.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_3_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_87_06.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_10.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_223.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_22.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_146.wav
+./dataset/44k/milet/1_20240114_170949_(Vocals)_2.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_201.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_214.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_87_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_91.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_73.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_233.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_87_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_23.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_82_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_72.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_84.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_3.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_53.wav
+./dataset/44k/milet/1_20240114_165739_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_278_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_39_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_229_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_26.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_15_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_48_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_18_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_39_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_264_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_8.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_9_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_147.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_0_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_185.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_178.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_263_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_108.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_50.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_227.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_95.wav
+./dataset/44k/milet/1_20240114_165739_(Vocals)_0_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_10_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_72_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_26.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_95_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_79.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_269.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_27.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_37.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_88_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_24.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_66_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_39_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_16.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_5_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_62.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_26.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_66.wav
+./dataset/44k/milet/1_20240114_170826_(Vocals)_3_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_12_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_90_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_230_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_5.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_76.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_264_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_11.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_21.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_239.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_239_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_246_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_20_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_2.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_105.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_41.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_54_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_18.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_263.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_136.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_22.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_238.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_38_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_96.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_34_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_85.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_145.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_48_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_71.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_125_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_32_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_246_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_42.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_104_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_21.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_58_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_8.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_51.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_241.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_38_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_79.wav
+./dataset/44k/milet/1_20240114_170826_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_2.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_218.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_17_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_25.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_52.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_89_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_89.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_7_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_103.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_17_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_89_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_79_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_8_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_71_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_98_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_128_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_106_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_7_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_32_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_10_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_240_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_38_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_120.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_274.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_98_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_35_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_61.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_28_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_5.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_55.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_12.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_6.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_65.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_172.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_18.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_89.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_62.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_90.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_13.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_64_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_234.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_4_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_8.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_126_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_53.wav
+./dataset/44k/milet/1_20240114_165739_(Vocals)_0_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_8_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_34_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_45_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_280.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_64_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_81.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_26_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_203.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_39_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_159.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_31.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_69.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_17.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_88_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_5_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_11.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_163.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_240.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_261.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_248_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_35_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_192556_bilibili_(Vocals)_1_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_53_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_3.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_13.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_109.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_239_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_33_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_248_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_75.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_4.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_5.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_19.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_23.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_32_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_21_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_228.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_66.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_238_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_44.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_2_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_208.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_85.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_141.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_48.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_18_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_30.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_0.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_99.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_12_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_206.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_86.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_4_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_101.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_268.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_209.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_7_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_18_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_5_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_68.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_18_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_196.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_93.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_59.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_102_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_19_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_30_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_111.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_63_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_104.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_188.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_237.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_64_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_189.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_90_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_66_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_17.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_41.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_91_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_17_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_87_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_105.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_4_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_230.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_18_05.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_87.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_8_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_247_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_11_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_11.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_14.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_259_01.wav
+./dataset/44k/milet/1_20240114_165739_(Vocals)_1_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_36.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_177.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_0_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_104_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_127.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_248_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_45_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_5_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_49_03.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_164.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_110.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_19.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_11_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_40.wav
+./dataset/44k/milet/1_20240114_170949_(Vocals)_5_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_24_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_34_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_112_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_37.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_32.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_143.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_213.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_93_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_219.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_49_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_29.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_25.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_194015_bilibili_(Vocals)_20.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_193500_bilibili_(Vocals)_5.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_129.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_28_06.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_16.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_249.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_38.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_20_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_259_02.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_174242_YouTube Music_(Vocals)_15.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_45_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_273.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_248_01.wav
+./dataset/44k/milet/1_20240114_170949_(Vocals)_5.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_63_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_112.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_192556_bilibili_(Vocals)_1.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_98.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_60.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_252.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_64_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_69.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_51_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_128.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_158.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_33_04.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_135.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_9_01.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_204757_YouTube Music_(Vocals)_116.wav
+./dataset/44k/milet/1_Screen_Recording_20240114_183443_YouTube Music_(Vocals)_112_04.wav
